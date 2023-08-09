@@ -1,1 +1,1 @@
-marathon form using html
+This is not a complete open source project.Its just simply a registration form for Hackathon made using HTML5 .  As I am a Beginner I'm still working on CSS , javascript and react.js syntax and code to develop a website for hackathon registration
